@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "49707693040",
+    "project_id": "sincere-destiny-417211",
+    "storage_bucket": "sincere-destiny-417211.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:49707693040:android:b8ead6ce560bb42a1f6335",
+        "android_client_info": {
+          "package_name": "com.example.projectmanager"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYHYUto2O65seujSORI2UZeEaSNfzv1QI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

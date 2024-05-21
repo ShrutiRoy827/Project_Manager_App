@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#FFFFFF</color>
+
+    <color name="primary_text_color">#393636</color>
+    <color name="secondary_text_color">#837E7E</color>
+
+    <color name="color_primary">#1E66BE</color>
+    <color name="color_secondary">#132C75</color>
+    <color name="color_primary_dark">#46B3E6</color>
+    <color name="color_accent">#0B2193</color>
+    <color name="color_task_list_background">#E0EAED</color>
+    <color name="card_list_background">#A6C4CC</color>
+
+    <color name="snackbar_error_color">#AF140F</color>
+
+    <!-- set of label colors for Cards   -->
+    <string-array name="label_colors">
+        <item>#43C86F</item>
+        <item>#0C90F1</item>
+        <item>#F72400</item>
+        <item>#7A8089</item>
+        <item>#BB8493</item>
+        <item>#AF2655</item>
+        <item>#704264</item>
+        <item>#76ABAE</item>
+    </string-array>
+
+</resources>
